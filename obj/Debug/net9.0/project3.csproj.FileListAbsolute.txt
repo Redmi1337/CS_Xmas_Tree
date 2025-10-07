@@ -1,0 +1,14 @@
+C:\VSCode\cs\project3\bin\Debug\net9.0\project3.exe
+C:\VSCode\cs\project3\bin\Debug\net9.0\project3.deps.json
+C:\VSCode\cs\project3\bin\Debug\net9.0\project3.runtimeconfig.json
+C:\VSCode\cs\project3\bin\Debug\net9.0\project3.dll
+C:\VSCode\cs\project3\bin\Debug\net9.0\project3.pdb
+C:\VSCode\cs\project3\obj\Debug\net9.0\project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\cs\project3\obj\Debug\net9.0\project3.AssemblyInfoInputs.cache
+C:\VSCode\cs\project3\obj\Debug\net9.0\project3.AssemblyInfo.cs
+C:\VSCode\cs\project3\obj\Debug\net9.0\project3.csproj.CoreCompileInputs.cache
+C:\VSCode\cs\project3\obj\Debug\net9.0\project3.dll
+C:\VSCode\cs\project3\obj\Debug\net9.0\refint\project3.dll
+C:\VSCode\cs\project3\obj\Debug\net9.0\project3.pdb
+C:\VSCode\cs\project3\obj\Debug\net9.0\project3.genruntimeconfig.cache
+C:\VSCode\cs\project3\obj\Debug\net9.0\ref\project3.dll
