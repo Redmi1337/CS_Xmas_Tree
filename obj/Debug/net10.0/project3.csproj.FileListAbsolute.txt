@@ -1,0 +1,15 @@
+C:\projects\cs\CS_Xmas_Tree\bin\Debug\net10.0\project3.exe
+C:\projects\cs\CS_Xmas_Tree\bin\Debug\net10.0\project3.deps.json
+C:\projects\cs\CS_Xmas_Tree\bin\Debug\net10.0\project3.runtimeconfig.json
+C:\projects\cs\CS_Xmas_Tree\bin\Debug\net10.0\project3.dll
+C:\projects\cs\CS_Xmas_Tree\bin\Debug\net10.0\project3.pdb
+C:\projects\cs\CS_Xmas_Tree\obj\Debug\net10.0\project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\cs\CS_Xmas_Tree\obj\Debug\net10.0\project3.AssemblyInfoInputs.cache
+C:\projects\cs\CS_Xmas_Tree\obj\Debug\net10.0\project3.AssemblyInfo.cs
+C:\projects\cs\CS_Xmas_Tree\obj\Debug\net10.0\project3.csproj.CoreCompileInputs.cache
+C:\projects\cs\CS_Xmas_Tree\obj\Debug\net10.0\project3.sourcelink.json
+C:\projects\cs\CS_Xmas_Tree\obj\Debug\net10.0\project3.dll
+C:\projects\cs\CS_Xmas_Tree\obj\Debug\net10.0\refint\project3.dll
+C:\projects\cs\CS_Xmas_Tree\obj\Debug\net10.0\project3.pdb
+C:\projects\cs\CS_Xmas_Tree\obj\Debug\net10.0\project3.genruntimeconfig.cache
+C:\projects\cs\CS_Xmas_Tree\obj\Debug\net10.0\ref\project3.dll
